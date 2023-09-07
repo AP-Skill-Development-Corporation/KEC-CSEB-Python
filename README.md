@@ -12,3 +12,8 @@ Python Basics for 2nd years
   - Variables, Assignments of Variables,Keywords with sample example on each
   - Data types and Operators with sample example on each
   - Type and input formatting with sample example on each
+
+## Day-03(06-09-2023):
+  - Markdown Formatting with sample examples on each
+  - Output Formatting and typecasting with sample example on each
+  - Conditional Statements Overview,if and if-else with sample examples on each
