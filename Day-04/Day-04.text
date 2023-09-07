@@ -1,0 +1,88 @@
+Day-04[07-09-2023]:
+===================
+	Good Morning All..
+
+	Today's Concept:
+	================
+		- nested if and elif
+		- Loops Overview, for and while
+		- range overview
+		- jumping statements like break,continue and pass
+		- Inner Loops Overview
+	
+	Task:
+	=====
+
+		Problem-1:
+		==========
+			Input:
+			======
+				8
+				15
+
+			Output:
+			=======
+				20F41A0508		
+				20F41A0509
+				20F41A0510
+				20F41A0511
+				20F41A0512
+				20F41A0513
+				20F41A0514
+
+		Problem-2:
+		==========
+			Input:
+			======
+				8
+				15
+
+			Output:
+			=======
+				20F41A0508	21F41A0514			
+				20F41A0509	21F41A0513
+				20F41A0510	21F41A0512
+				20F41A0511	21F41A0511
+				20F41A0512	21F41A0510
+				20F41A0513	21F41A0509
+				20F41A0514	21F41A0508
+
+		Problem-3: [Use While]
+		==========
+			Input:
+			======
+				4985
+
+			Output:
+			=======
+				Reverse of 4985 is: 5894
+				Even Preference is: 8495
+
+			Input:
+			======
+				12859
+
+			Output:
+			=======
+				Reverse of 12859 is: 95821
+				Even Preference is: 82159
+
+		Problem-4: [Use While]
+		==========
+			Input:
+			======
+				28745
+
+			Output:
+			=======
+				Given number is: 28745
+				After Logic Number is: 27854
+
+			Input:
+			======
+				1568
+
+			Output:
+			=======
+				Given number is: 1568
+				After Logic Number is: 6185
