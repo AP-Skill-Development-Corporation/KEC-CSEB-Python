@@ -17,3 +17,9 @@ Python Basics for 2nd years
   - Markdown Formatting with sample examples on each
   - Output Formatting and typecasting with sample example on each
   - Conditional Statements Overview,if and if-else with sample examples on each
+
+## Day-04(07-09-2023):
+  - Nested if and elif with sample example on each
+  - Loops Overview,for,range and while with sample example on each
+  - Jumping Statements Like break,continue and pass with sample example on each
+  - Inner Loops Overview with sample example
