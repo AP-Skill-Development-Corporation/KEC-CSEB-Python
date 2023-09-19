@@ -23,3 +23,8 @@ Python Basics for 2nd years
   - Loops Overview,for,range and while with sample example on each
   - Jumping Statements Like break,continue and pass with sample example on each
   - Inner Loops Overview with sample example
+
+## Day-05(08-09-2023):
+  - Function types,User Defined function types with sample example on each
+  - Function argument types with sample example on each
+  - Data Structures Overview,List,tuple and its methods with sample example on each
