@@ -28,3 +28,8 @@ Python Basics for 2nd years
   - Function types,User Defined function types with sample example on each
   - Function argument types with sample example on each
   - Data Structures Overview,List,tuple and its methods with sample example on each
+
+## Day-06(19-09-2023):
+  - Data Structures String,set,dictionary and its methods with sample examples on each
+  - Comprehensions Overview, list,set and dictionary with sample examples on each
+  - Packages and Modules with sample example on each
